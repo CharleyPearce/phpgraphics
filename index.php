@@ -1,4 +1,8 @@
 <?php
+/**
+ * Display 3 dimensional shapes in PHP
+ * @author Charley Pearce
+ */
 
 include("Vector3.php");
 
