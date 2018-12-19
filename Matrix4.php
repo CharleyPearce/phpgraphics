@@ -11,11 +11,23 @@
 class Matrix4
 {
     protected $elements = array(
-        0, 0, 0, 0,
-        0, 0, 0, 0,
-        0, 0, 0, 0,
-        0, 0, 0, 0
+        1, 0, 0, 0,
+        0, 1, 0, 0,
+        0, 0, 1, 0,
+        0, 0, 0, 1
     );
+
+    public function __toString()
+    {
+        $printString = "";
+        for ($i = 0; $i < 16; $i++) {
+            $printString.= $this->elements[$i].", ";
+            if ($i %4 == 3){
+                $printString.="<br>";
+            }
+        }
+        return $printString;
+    }
 
     public function __construct ()
     {
@@ -73,7 +85,7 @@ class Matrix4
         $this->elements[10] = $in->Z();
     }
 
-    public function Perspective($znear, $zfar, $aspect, $fov)
+    public static function Perspective($znear, $zfar, $aspect, $fov)
     {
         $h = 1/ tan($fov*pi()/360);
         $neg_depth = $znear-$zfar;
@@ -90,7 +102,7 @@ class Matrix4
     }
 
     // I'll get back to this later
-    public function Orthographic()
+    public static function Orthographic()
     {
         $m = new Matrix4(
             array(
@@ -104,7 +116,7 @@ class Matrix4
      * @param $degrees double the amount to rotate by
      * @param $inAxis Vector3 the axis to rotate around
      */
-    public function rotate($degrees, $inAxis)
+    public static function rotate($degrees, $inAxis)
     {
         $inAxis->normalize();
         $c = cos(deg2rad($degrees));
@@ -133,7 +145,7 @@ class Matrix4
         return $m;
     }
 
-    public function Scale(Vector3 $scale)
+    public static function Scale(Vector3 $scale)
     {
         $m = new Matrix4(
             array(
@@ -147,7 +159,7 @@ class Matrix4
         return $m;
     }
 
-    public function Translate(Vector3 $trans)
+    public static function Translate(Vector3 $trans)
     {
         $m = new Matrix4(
             array(
@@ -160,7 +172,7 @@ class Matrix4
         return $m;
     }
 
-    public function BuildViewMatrix(Vector3 $from, Vector3 $at, Vector3 $up)
+    public static function BuildViewMatrix(Vector3 $from, Vector3 $at, Vector3 $up)
     {
         $r = new Matrix4();
         $r->SetPositionVector(new Vector3(-$from->X(), -$from->Y(), -$from->Z()));
@@ -189,40 +201,49 @@ class Matrix4
         return $r->multiply($m);
     }
 
-
-    public function multiply($mat)
+    public function ZmatrixMatrixMultiply($mat)
     {
-        if (getType($mat) == "Matrix4") {
-            for ($c = 0; $c < 4; $c++) {
-                for ($r = 0; $r < 4; $r++) {
-                    $this->elements[$c + ($r * 4)] = 0;
-                    for ($i = 0; $i < 4; $i++) {
-                        $this->elements[$c + ($r * 4)] += val($c + ($i * 4)) * $mat->val(($r * 4) + $i);
-                    }
+        for ($c = 0; $c < 4; $c++) {
+            for ($r = 0; $r < 4; $r++) {
+                $this->elements[$c + ($r * 4)] = 0;
+                for ($i = 0; $i < 4; $i++) {
+                    $this->elements[$c + ($r * 4)] += $mat->val($c + ($i * 4)) * $mat->val(($r * 4) + $i);
                 }
             }
-        } else if(getType($mat) == "Vector3") {
-            $values = $this->elements;
-            $x = $mat->X();
-            $y = $mat->Y();
-            $z = $mat->Z();
-
-            $newx = $x*$values[0] + $y*$values[4] + $z*$values[8] + $values[12];
-            $newy = $x*$values[1] + $y*$values[5] + $z*$values[9] + $values[13];
-            $newz = $x*$values[2] + $y*$values[6] + $z*$values[10] + $values[14];
-
-            $temp = $x*$values[3] + $y*$values[7] + $z*$values[11] + $values[15];
-
-            $newx = $newx / $temp;
-            $newy = $newy / $temp;
-            $newz = $newz / $temp;
-
-            return new Vector3($newx, $newy, $newz);
-        } else if(getType($mat) == "Vector4") {
-            // TODO implement Vector4
-            return NULL;
         }
-        return NULL;
+    }
+
+    public function matrixMatrixMultiply($mat)
+    {
+        $newElems = [];
+        for ($r = 0; $r < 4; $r++) {
+            for ($c = 0; $c < 4; $c++) {
+                $newElems[$c + ($r * 4)] = 0;
+                for ($i = 0; $i < 4; $i++) {
+                    $newElems[$c + ($r * 4)] += $this->elements[$c + ($i * 4)] * $mat->val(($r * 4) + $i);
+                }
+            }
+        }
+        return new Matrix4($newElems);
+    }
+
+    public function matrixVectorMultiply($vec)
+    {
+        $values = $this->elements;
+        $x = $vec->X();
+        $y = $vec->Y();
+        $z = $vec->Z();
+
+        $newx = $x*$values[0] + $y*$values[4] + $z*$values[8] + $values[12];
+        $newy = $x*$values[1] + $y*$values[5] + $z*$values[9] + $values[13];
+        $newz = $x*$values[2] + $y*$values[6] + $z*$values[10] + $values[14];
+
+        $temp = $x*$this->elements[3] + $y*$this->elements[7] + $z*$this->elements[11] + $this->elements[15];
+
+        $newx = $newx / $temp;
+        $newy = $newy / $temp;
+        $newz = $newz / $temp;
+        return new Vector3($newx, $newy, $newz);
     }
 
 }
