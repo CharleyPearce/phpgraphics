@@ -70,6 +70,15 @@ class Vector3
         $this->z -= $zz;
     }
 
+    public function vectorSub(Vector3 $vec)
+    {
+        return new Vector3(
+            $this->x - $vec->X(),
+            $this->y - $vec->Y(),
+            $this->z - $vec->Z()
+        );
+    }
+
     // Vector Negative
     public function neg()
     {
@@ -133,6 +142,18 @@ class Vector3
         $this->x = $cx;
         $this->y = $cy;
         $this->z = $cz;
+    }
+
+    public function vectorCross(Vector3 $vec)
+    {
+        $cx = $this->y * $vec->Z() - $this->z * $vec->Y();
+        $cy = $this->z * $vec->X() - $this->x * $vec->Z();
+        $cz = $this->x * $vec->Y() - $this->y * $vec->X();
+        return new Vector3(
+            $cx,
+            $cy,
+            $cz
+        );
     }
 }
 ?>

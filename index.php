@@ -14,3 +14,21 @@ $tri = array(
     new Vector3(1, 0, 0)
 );
 
+
+
+
+?>
+
+<!-- SVG code -->
+<svg width="<?php echo $canvaswidth; ?>px" height="<?php echo $canvasheight; ?>px"
+     xmlns="http://www.w3.org/2000/svg"  >
+    <g transform="translate(0,<?php echo $canvasheight; ?>)">
+        <g transform="scale(1,-1)">
+            <?php echo $svg_contents; ?>
+        </g>
+    </g>
+</svg>
+end
+
+
+</body>

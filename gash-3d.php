@@ -79,7 +79,7 @@ for ($row =0 ; $row < $number_of_shapes ; $row++ )
 {
     echo "<br>Row:  " . $row  . " - ". $shapes[$row][0] ;
 
-$plotshapes[$row][0]= $shapes[$row][0];
+    $plotshapes[$row][0]= $shapes[$row][0];
     $number_of_points = (sizeof($shapes[$row]) -1 )/3;
     echo "<br>There are $number_of_points sets of points ; ";
 
@@ -139,14 +139,11 @@ for ($row =0 ; $row < $number_of_shapes ; $row++ ) {   // plots the points row b
 
     $line = $line. '" stroke="black" stroke-width="1" class="polygon" > </polygon>';
 
-
-
-
     $svg_contents = $svg_contents . $line ;
 
 }
 
-echo $svg_contents;
+var_dump($svg_contents);
 
 ?>
 
