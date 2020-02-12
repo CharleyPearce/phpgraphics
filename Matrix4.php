@@ -94,10 +94,11 @@ class Matrix4
             array(
                 $h/$aspect, 0, 0, 0,
                 0, $h, 0, 0,
-                0, 0, ($zfar + $znear)/$neg_depth, -1,
+                0, 0, ($zfar + $znear)/$neg_depth, 1,
                 0, 0, 2.0*($znear*$zfar)/$neg_depth, 0
             )
         );
+
         return $m;
     }
 
@@ -198,22 +199,10 @@ class Matrix4
 
             )
         );
-        return $r->multiply($m);
+        return $r->matrixMatrixMultiply($m);
     }
 
-    public function ZmatrixMatrixMultiply($mat)
-    {
-        for ($c = 0; $c < 4; $c++) {
-            for ($r = 0; $r < 4; $r++) {
-                $this->elements[$c + ($r * 4)] = 0;
-                for ($i = 0; $i < 4; $i++) {
-                    $this->elements[$c + ($r * 4)] += $mat->val($c + ($i * 4)) * $mat->val(($r * 4) + $i);
-                }
-            }
-        }
-    }
-
-    public function matrixMatrixMultiply($mat)
+    public function matrixMatrixMultiply(Matrix4 $mat)
     {
         $newElems = [];
         for ($r = 0; $r < 4; $r++) {
@@ -227,7 +216,7 @@ class Matrix4
         return new Matrix4($newElems);
     }
 
-    public function matrixVectorMultiply($vec)
+    public function matrixVectorMultiply(Vector3 $vec)
     {
         $values = $this->elements;
         $x = $vec->X();

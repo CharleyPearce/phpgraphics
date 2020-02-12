@@ -18,6 +18,11 @@ class Vector3
         $this->z = $z;
     }
 
+    public function __toString()
+    {
+        return "Vector3(" . $this->x . ", " . $this->y . ", " . $this->z . ")";
+    }
+
     // Set X
     public function setX($x)
     {
@@ -36,19 +41,25 @@ class Vector3
         $this->z = $z;
     }
 
-    // Get X
+    /**
+     * @return float
+     */
     public function X()
     {
         return $this->x;
     }
 
-    // Get Y
+    /**
+     * @return float
+     */
     public function Y()
     {
         return $this->y;
     }
 
-    // Get Z
+    /**
+     * @return float
+     */
     public function Z()
     {
         return $this->z;
@@ -76,6 +87,14 @@ class Vector3
             $this->x - $vec->X(),
             $this->y - $vec->Y(),
             $this->z - $vec->Z()
+        );
+    }
+
+    public function vectorAdd(Vector3 $vec) {
+        return new Vector3(
+            $this->x + $vec->X(),
+            $this->y + $vec->Y(),
+            $this->z + $vec->Z()
         );
     }
 
@@ -109,6 +128,10 @@ class Vector3
         return ($this->x * $this->x +
             $this->y * $this->y +
             $this->z * $this->z);
+    }
+
+    public static function distance(Vector3 $a, Vector3 $b) {
+        return sqrt(pow($a->X() - $b->X(), 2) + pow($a->Y() - $b->Y(), 2) + pow($a->Z() - $b->Z(), 2));
     }
 
     // Vector Length

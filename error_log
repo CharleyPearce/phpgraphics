@@ -1,0 +1,1011 @@
+[07-Aug-2019 19:57:04 UTC] PHP Warning:  require(/xampp/vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 19:57:04 UTC] PHP Fatal error:  require(): Failed opening required '/xampp/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:06:30 UTC] PHP Warning:  require(/xampp/vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:06:30 UTC] PHP Fatal error:  require(): Failed opening required '/xampp/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:06:54 UTC] PHP Warning:  require(/xampp/vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:06:54 UTC] PHP Fatal error:  require(): Failed opening required '/xampp/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:10:12 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:10:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:10:46 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:10:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:11:54 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:11:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:12:00 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:12:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:12:19 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:12:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:16:01 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:16:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:22:07 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: The "templates" directory does not exist ("/home/y05t7842gyeg/public_html/php_graphics/templates"). in /home/y05t7842gyeg/public_html/vendor/twig/twig/src/Loader/FilesystemLoader.php:106
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/vendor/twig/twig/src/Loader/FilesystemLoader.php(87): Twig\Loader\FilesystemLoader->addPath('templates', '__main__')
+#1 /home/y05t7842gyeg/public_html/vendor/twig/twig/src/Loader/FilesystemLoader.php(45): Twig\Loader\FilesystemLoader->setPaths(Array)
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(12): Twig\Loader\FilesystemLoader->__construct('templates')
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/vendor/twig/twig/src/Loader/FilesystemLoader.php on line 106
+[07-Aug-2019 20:24:09 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 20:24:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 3
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:27:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:29:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 66
+[07-Aug-2019 21:30:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 67
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:31:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:32:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 68
+[07-Aug-2019 21:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 69
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:33:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Array to string conversion in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:49 UTC] PHP Notice:  Undefined property: Scene::$Array in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:34:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[07-Aug-2019 21:35:16 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 71
+[07-Aug-2019 21:37:44 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84
+[07-Aug-2019 21:37:44 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(84): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(186): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:37:56 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 82
+[07-Aug-2019 21:37:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 82 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(82): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(184): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:04 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:38:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:12 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 82
+[07-Aug-2019 21:38:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 82 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(82): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(184): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:23 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:38:23 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:28 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:38:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:46 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:38:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:38:57 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:38:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:39:15 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:39:15 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:39:26 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:39:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:39:42 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83
+[07-Aug-2019 21:39:42 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 83 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(83): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:39:57 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84
+[07-Aug-2019 21:39:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(84): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(186): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:40:31 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84
+[07-Aug-2019 21:40:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(84): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(186): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[07-Aug-2019 21:40:39 UTC] PHP Notice:  Undefined offset: 4 in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84
+[07-Aug-2019 21:40:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Matrix4::matrixVectorMultiply() must be an instance of Vector3, null given, called in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 84 and defined in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:218
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(84): Matrix4->matrixVectorMultiply(NULL)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(186): Scene->draw()
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 218
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:43:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addChild() on integer in /home/y05t7842gyeg/public_html/php_graphics/index.php:86
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(175): Scene->draw(Object(Matrix4), Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 86
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addChild() on integer in /home/y05t7842gyeg/public_html/php_graphics/index.php:86
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(175): Scene->draw(Object(Matrix4), Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 86
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addChild() on integer in /home/y05t7842gyeg/public_html/php_graphics/index.php:86
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(175): Scene->draw(Object(Matrix4), Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 86
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Notice:  Object of class Matrix4 could not be converted to int in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 77
+[08-Aug-2019 20:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addChild() on integer in /home/y05t7842gyeg/public_html/php_graphics/index.php:86
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(175): Scene->draw(Object(Matrix4), Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 86
+[08-Aug-2019 20:57:55 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:72
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(180): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[08-Aug-2019 20:58:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:72
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(180): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[08-Aug-2019 21:13:04 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:72
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(180): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 72
+[08-Aug-2019 21:14:02 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:74
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(184): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[08-Aug-2019 21:16:43 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:74
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[08-Aug-2019 21:19:12 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/y05t7842gyeg/public_html/php_graphics/index.php:74
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(185): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 74
+[08-Aug-2019 21:25:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Vector3 as array in /home/y05t7842gyeg/public_html/php_graphics/index.php:73
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(187): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 73
+[08-Aug-2019 21:25:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Vector3 as array in /home/y05t7842gyeg/public_html/php_graphics/index.php:73
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(63): Scene->calculateDistance(Array)
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(57): Scene->addShape2d(Array, Object(Matrix4))
+#2 /home/y05t7842gyeg/public_html/php_graphics/index.php(187): Scene->addShape3d(Array, Object(Matrix4))
+#3 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 73
+[08-Aug-2019 21:28:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 76
+[08-Aug-2019 21:41:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 82
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 102
+[09-Aug-2019 12:48:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Polygon as array in /home/y05t7842gyeg/public_html/php_graphics/index.php:104
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(224): Scene->draw(Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 104
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:48:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 102
+[09-Aug-2019 12:48:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Polygon as array in /home/y05t7842gyeg/public_html/php_graphics/index.php:104
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(224): Scene->draw(Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 104
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Notice:  Trying to get property 'distance' of non-object in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 70
+[09-Aug-2019 12:52:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 102
+[09-Aug-2019 12:52:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Polygon as array in /home/y05t7842gyeg/public_html/php_graphics/index.php:104
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(224): Scene->draw(Object(Matrix4), 800, 800, Object(SVG\Nodes\Structures\SVGDocumentFragment))
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 104
+[09-Aug-2019 12:57:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 73
+[09-Aug-2019 13:01:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 76
+[09-Aug-2019 15:59:37 UTC] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 110
+[09-Aug-2019 19:01:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function normalize() on integer in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:122
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(237): Matrix4::rotate(223, 223)
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 122
+[09-Aug-2019 19:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function normalize() on integer in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php:122
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/index.php(237): Matrix4::rotate(39, 39)
+#1 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php on line 122
+[09-Aug-2019 19:01:22 UTC] PHP Fatal error:  Uncaught Exception: len = 0 in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php:155
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php(122): Vector3->normalize()
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(237): Matrix4::rotate(55, Object(Vector3))
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php on line 155
+[09-Aug-2019 19:02:54 UTC] PHP Fatal error:  Uncaught Exception: len = 0 in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php:155
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php(122): Vector3->normalize()
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(241): Matrix4::rotate(112, Object(Vector3))
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php on line 155
+[09-Aug-2019 19:02:55 UTC] PHP Fatal error:  Uncaught Exception: len = 0 in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php:155
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php(122): Vector3->normalize()
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(241): Matrix4::rotate(59, Object(Vector3))
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php on line 155
+[09-Aug-2019 19:03:14 UTC] PHP Fatal error:  Uncaught Exception: len = 0 in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php:155
+Stack trace:
+#0 /home/y05t7842gyeg/public_html/php_graphics/Matrix4.php(122): Vector3->normalize()
+#1 /home/y05t7842gyeg/public_html/php_graphics/index.php(241): Matrix4::rotate(259, Object(Vector3))
+#2 {main}
+  thrown in /home/y05t7842gyeg/public_html/php_graphics/Vector3.php on line 155
+[09-Aug-2019 19:19:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:19:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
+[09-Aug-2019 19:20:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/y05t7842gyeg/public_html/php_graphics/index.php on line 200
